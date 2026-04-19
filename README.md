@@ -2,7 +2,7 @@
 
 **1000+ финансовых моделей** → production-ready templates + automation.
 
-## 📊 Модели (Excel + Python)
+## 📊 Модели (Excel + Python + VBA)
 | Модель | Описание | Ссылка |
 |--------|----------|--------|
 | DCF | Discounted Cash Flow | [dcf.xlsx](dcf.xlsx) |
