@@ -118,3 +118,16 @@ git clone https://github.com/iqudesa/finance-models
 cd finance-models
 docker compose up          # Streamlit: http://localhost:8501 🚀
 docker compose up dash     # Dash:      http://localhost:8050 ⚡
+
+```
+---
+
+## Why This Project Matters
+## Example Projects
+
+| Industry        | Model Type | Use Case |
+|-----------------|-----------|----------|
+| Real estate     | DCF       | Valuation of new development projects. |
+| Manufacturing   | LBO       | Debt‑financed acquisition. |
+| Retail          | Scenario budget | Seasonality and cashflow planning. |
+| SaaS            | KPI dashboard | Revenue, burn, runway. |
